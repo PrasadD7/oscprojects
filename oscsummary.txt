@@ -1,0 +1,93 @@
+1: fork, man 2 fork
+pid_t pid;
+pid=fork();
+man wait
+waitpid((pidarr[i]),&status[i],0);
+
+//MULTI THREADING
+
+pthread_t tid
+pthread_create(&tid[0], NULL, func1, NULL);
+pthread_join(tid[0], NULL);
+
+pthreads(7)
+
+
+//MUTEXES
+
+pthread_mutex_t lock;//global
+pthread_mutex_init(&lock, NULL);
+pthread_mutex_lock(&lock);
+pthread_mutex_unlock(&lock); 
+pthread_mutex_destroy(&lock);
+
+
+//SIGNAL HANDLING
+
+man signal, man 2 signal
+struct sigaction s[4];
+for(i=0;i<4;i++){
+	s[i].sa_handler=handler;
+	}
+sigaction(SIGINT,&s[0],(void*)0);
+void *handler(int no){
+//print no and associated signal
+}
+
+//SEMAPHORE
+ sem_t lock;//GLOBAL
+sem_init(&lock,0,1);
+sem_wait(&lock);
+	sem_post(&lock);
+	sem_destroy(&lock);
+
+//SHARED MEMORY
+
+#include <sys/types.h>
+#include <sys/ipc.h>
+#include <sys/shm.h>
+key_t key;
+key = ftok("/home/dac/b4osc/assign6/prog3",1);
+
+//READER
+shmid=shmget(key,2048,SHM_RDONLY|0600);
+shmaddr = shmat(shmid,NULL,0);
+	sscanf(shmaddr,"%s",get);
+
+//WRITER
+	shmid=shmget(key,2048,IPC_CREAT|0600);
+	shmaddr = shmat(shmid,NULL,0);
+	ch=shmdt(shmaddr);//DESTROY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

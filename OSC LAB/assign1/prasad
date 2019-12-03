@@ -1,0 +1,1000 @@
+ 1126  cd LinkedListofLinkedList/
+ 1127  clear
+ 1128  vi MainList.cpp
+ 1129  cd ..
+ 1130  cd ArrayOfLinkedList/
+ 1131  vi MainList.cpp
+ 1132  g++ MainList.cpp
+ 1133  ./a.out
+ 1134  clear
+ 1135  cd ..
+ 1136  cd AdjacencyMatrix/
+ 1137  vi MainList.cpp
+ 1138  vi AdjMatrix.cpp 
+ 1139  clear
+ 1140  cd ..
+ 1141  cd LinkedListofLinkedList/
+ 1142  vi MainList.cpp 
+ 1143  ls
+ 1144  vi LinkedList.cpp 
+ 1145  ls
+ 1146  g++ main.cpp 
+ 1147  vi LinkedList.cpp 
+ 1148  g++ LinkedList.cpp 
+ 1149  g++ main.cpp 
+ 1150  ./a.out
+ 1151  vi LinkedList.cpp 
+ 1152  ./a.out
+ 1153  g++ main.cpp 
+ 1154  ./a.out
+ 1155  vi LinkedList.cpp 
+ 1156  g++ main.cpp 
+ 1157  g++ LinkedList.cpp 
+ 1158  g++ main.cpp 
+ 1159  ./a.out 
+ 1160  vi LinkedList.cpp 
+ 1161  g++ main.cpp 
+ 1162  ./a.out 
+ 1163  g++ main.cpp 
+ 1164  ./a.out 
+ 1165  vi LinkedList.cpp 
+ 1166  g++ main.cpp 
+ 1167  ./a.out 
+ 1168  vi LinkedList.cpp 
+ 1169  vi main.cpp 
+ 1170  vi main.cpp 
+ 1171  g++ main.cpp 
+ 1172  vi main.cpp 
+ 1173  g++ main.cpp 
+ 1174  ./a.out
+ 1175  vi main.cpp 
+ 1176  g++ main.cpp 
+ 1177  ./a.out
+ 1178  g++ main.cpp 
+ 1179  ./a.out
+ 1180  vi main.cpp 
+ 1181  g++ main.cpp 
+ 1182  ./a.out
+ 1183  ls
+ 1184  vi LinkedList.cpp 
+ 1185  vi LinkedList.cpp 
+ 1186  g++ main.cpp 
+ 1187  ./a.out
+ 1188  g++ main.cpp 
+ 1189  vi main.cpp 
+ 1190  g++ main.cpp 
+ 1191  vi LinkedList.cpp 
+ 1192  vi main.cpp 
+ 1193  g++ main.cpp 
+ 1194  ./a.out 
+ 1195  vi LinkedList.cpp 
+ 1196  g++ main.cpp 
+ 1197  ./a.out 
+ 1198  vi LinkedList.cpp 
+ 1199  mkdir LLmerge
+ 1200  cd LLmerge/
+ 1201  ls
+ 1202  vi main.cpp 
+ 1203  vi LinkedList.cpp 
+ 1204  ls
+ 1205  g++ main.cpp 
+ 1206  ./a.out 
+ 1207  vi main.cpp 
+ 1208  g++ main.cpp 
+ 1209  ./a.out 
+ 1210  vi main.cpp 
+ 1211  ./a.out 
+ 1212  g++ main.cpp 
+ 1213  ./a.out 
+ 1214  vi main.cpp 
+ 1215  g++ main.cpp 
+ 1216  ./a.out 
+ 1217  vi main.cpp 
+ 1218  ./a.out 
+ 1219  vi main.cpp 
+ 1220  ./a.out 
+ 1221  g++ main.cpp 
+ 1222  ./a.out 
+ 1223  vi main.cpp 
+ 1224  ls
+ 1225  vi LinkedList.cpp 
+ 1226  mysql -v
+ 1227  ls
+ 1228  g++ main.cpp 
+ 1229  ./a.out
+ 1230  vi main.cpp 
+ 1231  ls
+ 1232  vi SList.cpp 
+ 1233  g++ main.cpp 
+ 1234  ./a.out
+ 1235  ls
+ 1236  vi LinkedList.cpp 
+ 1237  vi main.cpp
+ 1238  g++ main.cpp
+ 1239  g++ main.cpp
+ 1240  vi main.cpp
+ 1241  g++ main.cpp
+ 1242  ./a.out 
+ 1243  vi main.cpp
+ 1244  vi LinkedList.cpp 
+ 1245  vi main.cpp
+ 1246  g++ main.cpp
+ 1247  vi LinkedList.cpp 
+ 1248  vi main.cpp
+ 1249  g++ main.cpp
+ 1250  vi LinkedList.cpp 
+ 1251  g++ main.cpp
+ 1252  vi LinkedList.cpp 
+ 1253  vi main.cpp 
+ 1254  g++ main.cpp
+ 1255  vi main.cpp 
+ 1256  vi LinkedList.cpp 
+ 1257  g++ main.cpp
+ 1258  vi LinkedList.cpp 
+ 1259  vi Node.h
+ 1260  g++ main.cpp
+ 1261  vi LinkedList.cpp 
+ 1262  ls
+ 1263  g++ Node.cpp 
+ 1264  g++ SingleList.cpp 
+ 1265  g++ Main.cpp \
+ 1266  g++ Main.cpp 
+ 1267  ./a.out
+ 1268  clear
+ 1269  g
+ 1270  ls
+ 1271  vi main.cpp 
+ 1272  ls
+ 1273  vi LinkedList.cpp 
+ 1274  g++ main.cpp 
+ 1275  vi Node.
+ 1276  vi Node.cpp
+ 1277  ls
+ 1278  vi main.cpp 
+ 1279  ls
+ 1280  vi main.cpp 
+ 1281  vi LinkedList.cpp 
+ 1282  ls
+ 1283  g++ Main.cpp 
+ 1284  ./a.out 
+ 1285  vi LinkedList.cpp
+ 1286  vi ListQ.cpp
+ 1287  vi LinkedList.cpp
+ 1288  vi ListQ.cpp
+ 1289  vi Retail.cpp
+ 1290  vi LinkedList.cpp
+ 1291  vi ListQ.cpp
+ 1292  vi Retail.cpp
+ 1293  vi ListQ.cpp
+ 1294  vi Retail.cpp
+ 1295  vi ListQ.cpp
+ 1296  vi Retail.cpp
+ 1297  vi ListQ.cpp
+ 1298  vi Retail.cpp
+ 1299  vi ListQ.cpp
+ 1300  vi Retail.cpp
+ 1301  vi ListQ.cpp
+ 1302  vi Retail.cpp
+ 1303  clear
+ 1304  g++ RSO.cpp
+ 1305  vi Retail.cpp
+ 1306  g++ Retail.cpp
+ 1307  vi LinkedList.cpp 
+ 1308  g++ RSO.cpp
+ 1309  vi ListQ.cpp
+ 1310  vi Retail.cpp
+ 1311  cd Desktop/
+ 1312  ls
+ 1313  cd 190840120153/
+ 1314  ls
+ 1315  g++ LICAgent.cpp 
+ 1316  ls
+ 1317  g++ Node.cpp 
+ 1318  g++  List.cpp 
+ 1319  g++  main.cpp
+ 1320  g++ Node.cpp 
+ 1321  g++  List.cpp 
+ 1322  g++  main.cpp
+ 1323  ./a.out
+ 1324  ls
+ 1325  g++ LICAgent.cpp 
+ 1326  g++ Node.cpp 
+ 1327  g++ List.cpp 
+ 1328  g++  main.cpp
+ 1329  ./a.out
+ 1330  g++  main.cpp
+ 1331  ./a.out
+ 1332  g++  main.cpp
+ 1333  ./a.out
+ 1334  g++  main.cpp
+ 1335  ./a.out
+ 1336  g++  main.cpp
+ 1337  ./a.out
+ 1338  g++  main.cpp
+ 1339  ./a.out
+ 1340  g++  main.cpp
+ 1341  ./a.out
+ 1342  g++  main.cpp
+ 1343  ./a.out
+ 1344  g++  main.cpp
+ 1345  ./a.out
+ 1346  g++  main.cpp
+ 1347  ./a.out
+ 1348  g++  main.cpp
+ 1349  ./a.out
+ 1350  g++  main.cpp
+ 1351  ./a.out
+ 1352  g++  main.cpp
+ 1353  ./a.out
+ 1354  g++  main.cpp
+ 1355  ./a.out
+ 1356  ls
+ 1357  g++  main.cpp
+ 1358  ./a.out
+ 1359  g++  main.cpp
+ 1360  ./a.out
+ 1361  g++  main.cpp
+ 1362  ./a.out
+ 1363  g++  main.cpp
+ 1364  ./a.out
+ 1365  g++  main.cpp
+ 1366  ./a.out
+ 1367  g++  main.cpp
+ 1368  ./a.out
+ 1369  g++  main.cpp
+ 1370  ./a.out
+ 1371  g++  main.cpp
+ 1372  ./a.out
+ 1373  g++  main.cpp
+ 1374  ./a.out
+ 1375  g++  main.cpp
+ 1376  ./a.out
+ 1377  g++  main.cpp
+ 1378  ./a.out
+ 1379  g++  main.cpp
+ 1380  ./a.out
+ 1381  g++  main.cpp
+ 1382  ./a.out
+ 1383  g++  main.cpp
+ 1384  ./a.out
+ 1385  g++  main.cpp
+ 1386  ./a.out
+ 1387  g++  main.cpp
+ 1388  ./a.out
+ 1389  g++  main.cpp
+ 1390  ./a.out
+ 1391  g++  main.cpp
+ 1392  ./a.out
+ 1393  g++  main.cpp
+ 1394  ./a.out
+ 1395  g++  LICAgent.cpp 
+ 1396  g++  List.cpp 
+ 1397  g++  main.cpp
+ 1398  ./a.out
+ 1399  g++  main.cpp
+ 1400  ./a.out
+ 1401  g++  main.cpp
+ 1402  ./a.out
+ 1403  g++  main.cpp
+ 1404  ./a.out
+ 1405  g++  main.cpp
+ 1406  ./a.out
+ 1407  g++  main.cpp
+ 1408  ./a.out
+ 1409  g++  main.cpp
+ 1410  ./a.out
+ 1411  g++  main.cpp
+ 1412  ./a.out
+ 1413  g++  main.cpp
+ 1414  bash
+ 1415  vi corporator.cpp
+ 1416  g++ corporator.cpp
+ 1417  vi corporator.cpp
+ 1418  g++ corporator.cpp
+ 1419  vi corporator.cpp
+ 1420  g++ corporator.cpp
+ 1421  vi corporator.cpp
+ 1422  g++ corporator.cpp
+ 1423  clear'
+ 1424  clear
+ 1425  clear
+ 1426  vi linkedlist.cpp 
+ 1427  BASH
+ 1428  bash
+ 1429  vi linklist.cpp
+ 1430  bash
+ 1431  linklist.cpp
+ 1432  vi linklist.cpp
+ 1433  g++ linklist.cpp
+ 1434  vi linklist.cpp
+ 1435  g++ linklist.cpp
+ 1436  clear
+ 1437  g++ linklist.cpp
+ 1438  bash
+ 1439  vi linklist.cpp
+ 1440  g++ linklist.cpp
+ 1441  vi linklist.cpp
+ 1442  g++ linklist.cpp
+ 1443  clear
+ 1444  g++ linklist.cpp
+ 1445  bash
+ 1446  vi stackll.cpp
+ 1447  bash
+ 1448  g++ stackll.cpp
+ 1449  g++ linklist.cpp
+ 1450  clear
+ 1451  g++ stackll.cpp
+ 1452  clear
+ 1453  g++ stackll.cpp
+ 1454  clear
+ 1455  g++ stackll.cpp
+ 1456  clear
+ 1457  vi main.cpp
+ 1458  g++ main.cpp
+ 1459  vi main.cpp
+ 1460  g++ main.cpp
+ 1461  clear
+ 1462  g++ main.cpp
+ 1463  clear
+ 1464  g++ main.cpp
+ 1465  clear
+ 1466  g++ main.cpp
+ 1467  clear
+ 1468  g++ main.cpp
+ 1469  clear
+ 1470  g++ main.cpp
+ 1471  clear
+ 1472  g++ main.cpp
+ 1473  clear
+ 1474  g++ main.cpp
+ 1475  clear
+ 1476  g++ main.cpp
+ 1477  clea
+ 1478  clear
+ 1479  g++ main.cpp
+ 1480  clear
+ 1481  g++ main.cpp
+ 1482  clear
+ 1483  g++ main.cpp
+ 1484  clear
+ 1485  g++ main.cpp
+ 1486  clear
+ 1487  g++ main.cpp
+ 1488  vi node.cpp
+ 1489  vi linklist.cpp
+ 1490  bash
+ 1491  ls
+ 1492  vi main.cpp 
+ 1493  g++ main.cpp.cpp
+ 1494  g++ main.cpp 
+ 1495  vi linkedlist.cpp 
+ 1496  g++ main.cpp 
+ 1497  vi dealer.cpp 
+ 1498  g++ main.cpp 
+ 1499  vi dealer.cpp 
+ 1500  g++ main.cpp 
+ 1501  ./a.out 
+ 1502  vi dealer.cpp 
+ 1503  vi main.cpp.cpp 
+ 1504  ls
+ 1505  vi main.cpp 
+ 1506  g++ main.cpp 
+ 1507  vi main.cpp 
+ 1508  g++ main.cpp 
+ 1509  clear
+ 1510  ./a.out 
+ 1511  vi main.cpp 
+ 1512  g++ main.cpp 
+ 1513  ./a.out 
+ 1514  clear
+ 1515  g++ main.cpp 
+ 1516  ./a.out 
+ 1517  clear
+ 1518  vi main.cpp 
+ 1519  clear
+ 1520  g++ main.cpp 
+ 1521  ./a.out 
+ 1522  clear
+ 1523  vi main.cpp 
+ 1524  g++ main.cpp 
+ 1525  ./a.out 
+ 1526  vi main.cpp 
+ 1527  g++ main.cpp 
+ 1528  ./a.out 
+ 1529  vi main.cpp 
+ 1530  g++ main.cpp 
+ 1531  vi main.cpp 
+ 1532  g++ main.cpp 
+ 1533  clear
+ 1534  ./a.out 
+ 1535  vi main.cpp 
+ 1536  g++ main.cpp 
+ 1537  ./a.out 
+ 1538  vi main.cpp 
+ 1539  g++ main.cpp 
+ 1540  vi main.cpp 
+ 1541  g++ main.cpp 
+ 1542  vi main.cpp 
+ 1543  g++ main.cpp 
+ 1544  clear
+ 1545  g++ main.cpp 
+ 1546  ./a.out 
+ 1547  clear
+ 1548  vi main.cpp 
+ 1549  ./a.out 
+ 1550  g++ main.cpp 
+ 1551  ./a.out 
+ 1552  vi main.cpp 
+ 1553  g++ main.cpp 
+ 1554  ./a.out 
+ 1555  vi main.cpp 
+ 1556  g++ main.cpp 
+ 1557  vi main.cpp 
+ 1558  g++ main.cpp 
+ 1559  ./a.out 
+ 1560  vi main.cpp 
+ 1561  g++ main.cpp 
+ 1562  clear
+ 1563  ./a.out 
+ 1564  vi main.cpp 
+ 1565  g++ main.cpp 
+ 1566  clear
+ 1567  ./a.out 
+ 1568  clear
+ 1569  vi main.cpp 
+ 1570  clear
+ 1571  g++ main.cpp 
+ 1572  ./a.out 
+ 1573  vi main.cpp 
+ 1574  g++ main.cpp 
+ 1575  clear
+ 1576  ./a.out 
+ 1577  clear
+ 1578  vi main.cpp 
+ 1579  g++ main.cpp 
+ 1580  ./a.out 
+ 1581  vi main.cpp 
+ 1582  g++ main.cpp 
+ 1583  clear
+ 1584  ./a.out 
+ 1585  vi main.cpp 
+ 1586  g++ main.cpp 
+ 1587  ./a.out 
+ 1588  vi main.cpp 
+ 1589  g++ main.cpp 
+ 1590  ./a.out 
+ 1591  vi main.cpp 
+ 1592  clear
+ 1593  g++ main.cpp 
+ 1594  ./a.out 
+ 1595  clear
+ 1596  vi main.cpp 
+ 1597  g++ main.cpp 
+ 1598  vi main.cpp 
+ 1599  g++ main.cpp 
+ 1600  vi main.cpp 
+ 1601  g++ main.cpp 
+ 1602  vi main.cpp 
+ 1603  g++ main.cpp 
+ 1604  vi main.cpp 
+ 1605  g++ main.cpp 
+ 1606  clear
+ 1607  ./a.out 
+ 1608  vi main.cpp 
+ 1609  clear
+ 1610  g++ main.cpp 
+ 1611  clear
+ 1612  g++ main.cpp 
+ 1613  clear
+ 1614  g++ main.cpp 
+ 1615  clear
+ 1616  g++ main.cpp 
+ 1617  ./a.out 
+ 1618  clear
+ 1619  vi main.cpp 
+ 1620  g++ main.cpp 
+ 1621  ./a.out 
+ 1622  vi main.cpp 
+ 1623  g++ main.cpp 
+ 1624  clear
+ 1625  ./a.out 
+ 1626  clear
+ 1627  g++ main.cpp 
+ 1628  ./a.out 
+ 1629  clear
+ 1630  g++ main.cpp 
+ 1631  ./a.out 
+ 1632  vi main.cpp 
+ 1633  clear
+ 1634  g++ main.cpp 
+ 1635  ./a.out 
+ 1636  clear
+ 1637  vi main.cpp 
+ 1638  ls
+ 1639  vi dealer.cpp 
+ 1640  g++ main.cpp 
+ 1641  ./a.out 
+ 1642  clear
+ 1643  g++ main.cpp 
+ 1644  ./a.out 
+ 1645  g++ main.cpp 
+ 1646  clear
+ 1647  ./a.out 
+ 1648  clear
+ 1649  g++ main.cpp 
+ 1650  ./a.out 
+ 1651  g++ main.cpp 
+ 1652  clear
+ 1653  ./a.out 
+ 1654  clear
+ 1655  g++ main.cpp 
+ 1656  ./a.out 
+ 1657  clear
+ 1658  ls
+ 1659  vi dealer.cpp 
+ 1660  vi linkedlist.cpp 
+ 1661  vi main.cpp 
+ 1662  g++ main.cpp 
+ 1663  ./a.out 
+ 1664  vi main.cpp 
+ 1665  ls
+ 1666  vi linkedlist.cpp 
+ 1667  ls
+ 1668  vi linkedlist.cpp 
+ 1669  vi linklist.cpp
+ 1670  vi linkedlist.cpp
+ 1671  ls
+ 1672  g++ main.cpp 
+ 1673  ./a.out 
+ 1674  vi linkedlist.cpp 
+ 1675  ls
+ 1676  pwd
+ 1677  vi node.cpp
+ 1678  g++ node.cpp
+ 1679  vi node.cpp
+ 1680  g++ node.cpp
+ 1681  vi linkedlist.cpp
+ 1682  g++ linkedlist.cpp
+ 1683  vi linkedlist.cpp
+ 1684  g++ linkedlist.cpp
+ 1685  vi linkedlist.cpp
+ 1686  g++ linkedlist.cpp
+ 1687  vi main.cpp
+ 1688  g++ main.cpp
+ 1689  clear
+ 1690  ./a.out 
+ 1691  clear
+ 1692  vi dealer.cpp
+ 1693  g++ dealer.cpp 
+ 1694  vi dealer.cpp
+ 1695  g++ dealer.cpp 
+ 1696  sudo g++ dealer.cpp 
+ 1697  man ls
+ 1698  wget --random-wait -r -p -e robots=off -u mozilla http://www.google.co.in
+ 1699  uname -s
+ 1700  uname
+ 1701  uname -pwd
+ 1702  clear
+ 1703  manish
+ 1704  clear c=clear
+ 1705  alias c=clear
+ 1706  c
+ 1707  time read
+ 1708  clear
+ 1709  manish.mkv
+ 1710  clear
+ 1711  ls
+ 1712  clear
+ 1713  ls
+ 1714  mkdir B2_DAC_34
+ 1715  ls
+ 1716  cd B2_DAC_34
+ 1717  touch 114
+ 1718  ls
+ 1719  vi 114
+ 1720  clear
+ 1721  ls 
+ 1722  clear
+ 1723  ls -a
+ 1724  ls --color
+ 1725  ls -d
+ 1726  ls -F
+ 1727  ls -la
+ 1728  ls tr7 -la
+ 1729  clear
+ 1730  ls
+ 1731  touch 115
+ 1732  touch 116
+ 1733  rm 116
+ 1734  touch 114_1
+ 1735  touch 114_2
+ 1736  touch 114_3
+ 1737  touch 114_4
+ 1738  clear
+ 1739  ls
+ 1740  mkdir Assignment_01
+ 1741  ls
+ 1742  man ls
+ 1743  ls -x
+ 1744  ls -X
+ 1745  clear
+ 1746  ls _T
+ 1747  clear
+ 1748  ls -T
+ 1749  clear
+ 1750  ls _l
+ 1751  clear
+ 1752  ls -l
+ 1753  ls _v
+ 1754  ls -v
+ 1755  ls -r
+ 1756  clear
+ 1757  ls -cat
+ 1758  ls cat
+ 1759  clear
+ 1760  ls
+ 1761  mkdir a
+ 1762  mkdir b
+ 1763  mkdir c
+ 1764  cd a
+ 1765  touch a.txt
+ 1766  cd ..
+ 1767  ls
+ 1768  cd b
+ 1769  touch b.txt
+ 1770  cd ..
+ 1771  ls
+ 1772  cd c
+ 1773  touch c.txt
+ 1774  ls
+ 1775  cd ..
+ 1776  cp c.txt
+ 1777  cp c
+ 1778  cp c a
+ 1779  clear
+ 1780  ls 
+ 1781  ls -1
+ 1782  ls -2
+ 1783  ls -0
+ 1784  clear
+ 1785  ls -cat
+ 1786  ls -r
+ 1787  ls -u
+ 1788  cd Assignment_01/
+ 1789  ls -u
+ 1790  ls -r
+ 1791  ls sort
+ 1792  clear
+ 1793  man ls
+ 1794  ls -u -l
+ 1795  ls -r
+ 1796  ls -r -1
+ 1797  ls -rl
+ 1798  touch ./manish.out
+ 1799  ls
+ 1800  rm manish.out
+ 1801  touch .m
+ 1802  mkdir .mk
+ 1803  ls
+ 1804  ls -a
+ 1805  touch 114
+ 1806  ls -t
+ 1807  touch 114_1
+ 1808  ls -t
+ 1809  ls -rt
+ 1810  ls 
+ 1811  ls -1
+ 1812  ls -R
+ 1813  cd ..
+ 1814  ls -R
+ 1815  ls -lr
+ 1816  ls -lR
+ 1817  ls -ld
+ 1818  cd Desktop
+ 1819  cd Pictures
+ 1820  clear
+ 1821  ls
+ 1822  cd dac
+ 1823  ls
+ 1824  cd B2_DAC_34
+ 1825  ls
+ 1826  cd Assignment_01
+ 1827  ls
+ 1828  cp -r c a
+ 1829  cd a
+ 1830  ls
+ 1831  cd ..
+ 1832  ls
+ 1833  sudo mv b a
+ 1834  mv b a
+ 1835  ls
+ 1836  cd a
+ 1837  ls
+ 1838  alias manish= ls -lh
+ 1839  ls -ld
+ 1840  ls -lh
+ 1841  alias manish= ls -lh
+ 1842  alias manish='ls -lh'
+ 1843  manish
+ 1844  ls
+ 1845  mv a cdac
+ 1846  mv b cdac
+ 1847  ls
+ 1848  c
+ 1849  cd ..
+ 1850  vi file1.txt
+ 1851  vi file2.txt
+ 1852  vi file3.txt
+ 1853  vi file4.txt
+ 1854  vi file5.txt
+ 1855  vi file1.txt
+ 1856  vi file2.txt
+ 1857  vi file3.txt
+ 1858  vi file4.txt
+ 1859  vi file5.txt
+ 1860  ls
+ 1861  grep -i "Hello" file2.txt
+ 1862  grep -i "Hello" file2.txt file1.txt
+ 1863  cat file1.txt file2.txt
+ 1864  cat > file.txt
+ 1865  nano file.txt
+ 1866  rm a
+ 1867  rmdir a
+ 1868  rmdir b
+ 1869  rmdir c
+ 1870  rm -r c
+ 1871  rm -rf a
+ 1872  man cat
+ 1873  cat -n file1.txt
+ 1874  cat -n file.txt
+ 1875  man v
+ 1876  clear
+ 1877  man ls
+ 1878  ls --block siz
+ 1879  ls --block size
+ 1880  clear
+ 1881  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ cd ..
+ 1882  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ ls
+ 1883  114  114_1  114_2  114_3  114_4  a  b  c
+ 1884  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ sudo mv b a
+ 1885  [sudo] password for dac: 
+ 1886  Sorry, try again.
+ 1887  [sudo] password for dac: 
+ 1888  Sorry, try again.
+ 1889  [sudo] password for dac: 
+ 1890  sudo: 3 incorrect password attempts
+ 1891  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ mv b a
+ 1892  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ ls
+ 1893  114  114_1  114_2  114_3  114_4  a  c
+ 1894  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ cd a
+ 1895  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ ls
+ 1896  a.txt  b  c
+ 1897  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ alias manish= ls -lh
+ 1898  alias ls='ls --color=auto'
+ 1899  -bash: alias: -lh: not found
+ 1900  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ ls -ld
+ 1901  drwxr-xr-x 4 dac dac 4096 Oct  2 09:07 .
+ 1902  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ ls -lh
+ 1903  total 8.0K
+ 1904  -rw-r--r-- 1 dac dac    0 Oct  2 08:34 a.txt
+ 1905  drwxr-xr-x 2 dac dac 4.0K Oct  2 08:34 b
+ 1906  drwxr-xr-x 2 dac dac 4.0K Oct  2 09:04 c
+ 1907  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ alias manish= ls -lh
+ 1908  alias ls='ls --color=auto'
+ 1909  -bash: alias: -lh: not found
+ 1910  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ alias manish='ls -lh'
+ 1911  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ manish
+ 1912  total 8.0K
+ 1913  -rw-r--r-- 1 dac dac    0 Oct  2 08:34 a.txt
+ 1914  drwxr-xr-x 2 dac dac 4.0K Oct  2 08:34 b
+ 1915  drwxr-xr-x 2 dac dac 4.0K Oct  2 09:04 c
+ 1916  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ ls
+ 1917  a.txt  b  c
+ 1918  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ mv a cdac
+ 1919  mv: cannot stat 'a': No such file or directory
+ 1920  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ mv b cdac
+ 1921  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ ls
+ 1922  a.txt  c  cdac
+ 1923  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ c
+ 1924  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01/a$ cd ..
+ 1925  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file1.txt
+ 1926  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file2.txt
+ 1927  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file3.txt
+ 1928  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file4.txt
+ 1929  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file5.txt
+ 1930  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file1.txt
+ 1931  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file2.txt
+ 1932  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file3.txt
+ 1933  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file4.txt
+ 1934  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ vi file5.txt
+ 1935  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ ls
+ 1936  114    114_2  114_4  c          file2.txt  file4.txt
+ 1937  114_1  114_3  a      file1.txt  file3.txt  file5.txt
+ 1938  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ grep -i "Hello" file2.txt
+ 1939  Hello 2nd World dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ grep -i "Hello" file2.txt
+ 1940  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ grep -i "Hello" file2.txt file1.txt
+ 1941  file2.txt:Hello 2nd World dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ grep -i "Hello" file2.txt file1.txt
+ 1942  file1.txt:hello 1st world
+ 1943  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ cat file1.txt file2.txt
+ 1944  hello 1st world
+ 1945  Hello 2nd World hello 1st world
+ 1946  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ cat > file.txt
+ 1947  Welcome to Linux commanddac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ cat > file.txt
+ 1948  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ nano file.txt
+ 1949  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ rm a
+ 1950  rm: cannot remove 'a': Is a directory
+ 1951  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ rmdir a
+ 1952  rmdir: failed to remove 'a': Directory not empty
+ 1953  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ rmdir b
+ 1954  rmdir: failed to remove 'b': No such file or directory
+ 1955  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ rmdir c
+ 1956  rmdir: failed to remove 'c': Directory not empty
+ 1957  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ rm -r c
+ 1958  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ rm -rf a
+ 1959  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ man cat
+ 1960  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ cat -n file1.txt
+ 1961  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ cat -n file.txt
+ 1962  dac@dac-Veriton-M200-H310:~/B2_DAC_34/Assignment_01$ 
+ 1963  clear
+ 1964  sudo -apt gcc
+ 1965  sudo -e
+ 1966  sudo tac
+ 1967  okay
+ 1968  clear
+ 1969  ping http:\\www.google.co.in
+ 1970  clear
+ 1971  ping http://www.google.co.in
+ 1972  clear
+ 1973  google.com
+ 1974  clear
+ 1975  uname -a
+ 1976  uname -r
+ 1977  cat/etc/redhat-release
+ 1978  uptime
+ 1979  hostname
+ 1980  hostname -I
+ 1981  last reboot
+ 1982  date
+ 1983  re
+ 1984  apt install re
+ 1985  cal
+ 1986  whoami
+ 1987  w
+ 1988  w -1
+ 1989  cat/proc/meminfo
+ 1990  cat /proc/meminfo
+ 1991  cat /proc/cpuinfo
+ 1992  free -h
+ 1993  ls
+ 1994  mkdir osc
+ 1995  cd osc/assign1
+ 1996  mkdir osc/assign1
+ 1997  ls
+ 1998  cd osc/
+ 1999  cd ..
+ 2000  cd osc/assign1/
+ 2001  date
+ 2002  date -a
+ 2003  date +a
+ 2004  whoami
+ 2005  ifconfig
+ 2006  ipconfig
+ 2007  -netstat
+ 2008  netstat
+ 2009  curl ipconfig.me
+ 2010  ifconfig 
+ 2011  ip a
+ 2012  ip addr
+ 2013  ip -a
+ 2014  ip
+ 2015  ip -a
+ 2016  ip a
+ 2017  ping 192.168.76.236
+ 2018  touch prasad
+ 2019  ls
+ 2020  vi pradnya
+ 2021  touch pradnya
+ 2022  ls
+ 2023  ls -r
+ 2024  ls D
+ 2025  ls -r D
+ 2026  ls -d
+ 2027  ls -c
+ 2028  ls d
+ 2029  man ls'
+ 2030  man ls
+ 2031  ls -C
+ 2032  ls -c
+ 2033  man ls
+ 2034  ls
+ 2035  ls -C
+ 2036  touch ufo && touch max && touch keep && touch bat
+ 2037  ls
+ 2038  ls -r
+ 2039  ls -1
+ 2040* ls 
+ 2041  ls
+ 2042  ls -r
+ 2043  ls -l -r
+ 2044  ps
+ 2045  column 1
+ 2046  ls column 1
+ 2047  column -s
+ 2048  column -c
+ 2049  ls -l | column -t
+ 2050  ls | column -t
+ 2051  ls | row -t
+ 2052  ls | column -t
+ 2053  ls
+ 2054  ls -1
+ 2055  cat prasad
+ 2056  vi pra
+ 2057  vi prasad 
+ 2058  cat prasad
+ 2059  cat prasad | column -t+
+ 2060  cat prasad | column -t
+ 2061  cat prasad | column 
+ 2062  cat prasad | column -t
+ 2063  ls -l
+ 2064  ls -x
+ 2065  ls column
+ 2066  ls -x
+ 2067  ls -X
+ 2068  ls -C
+ 2069  history
+ 2070  alias c=clear
+ 2071  c
+ 2072  ls -l
+ 2073  ls
+ 2074  ls column
+ 2075  ls | column
+ 2076  ls | column -t
+ 2077  ls
+ 2078  ls | column -t
+ 2079  ls -t
+ 2080  ls | column -t
+ 2081  ls 
+ 2082  whatis(column)
+ 2083  whatis column
+ 2084  whatis ls
+ 2085  whatis ls -l
+ 2086  whatis whatis
+ 2087  whatis where
+ 2088  whatis ifconfig
+ 2089  whatis ip
+ 2090  man ip
+ 2091  man -4
+ 2092  man --4
+ 2093  man ip
+ 2094  ip -family inet
+ 2095  ip -family inet6
+ 2096  ip -s
+ 2097  ip link
+ 2098  ip -c
+ 2099  ip -v
+ 2100  ip -V
+ 2101  whatis vi
+ 2102  ip -d
+ 2103  ip -D
+ 2104  ip -n
+ 2105  ip bridge
+ 2106  ip link
+ 2107  ip rule
+ 2108  ip tcp_metrics
+ 2109  ip xfrm
+ 2110  ip xfrm-object policy
+ 2111  ip xfrm-object
+ 2112  ip xfrm policy
+ 2113  ip address
+ 2114  ip tunnel
+ 2115  ip tuntap
+ 2116  c
+ 2117  ls
+ 2118  ls | column -t
+ 2119  ls history
+ 2120  cat history
+ 2121  ./bashsrc
+ 2122  bashsrc
+ 2123  cat bashsrc
+ 2124  cat bashsrc.c
+ 2125  history > prasad

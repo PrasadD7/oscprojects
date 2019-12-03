@@ -1,0 +1,500 @@
+fm
+ls
+c
+ls
+c
+dac
+rm tt.c\
+rm tt.c
+ls
+c
+ls *.c\
+ls *.c
+ls -i
+c
+ls -i hard_tt.c 
+ln -s hard_tt.c soft_link
+ls
+vi soft_link 
+vi hard_tt.c \
+vi hard_tt.c 
+ls -l *.c
+c
+ls
+ls -l *.c
+mv soft_link soft_link.c
+ls -l *.c
+c
+ls -l *.c
+ls -i *.c
+ls -l *.c
+vi soft_link.c 
+vi hard_tt.c 
+ln hard_tt.c hard_link.c
+ls -l *.c
+c
+ls -i *.c
+vi file 
+ls -l 
+c
+man cut
+ls -l 
+c
+ls -l | cut -d " " -f 1
+ls -l | cut -d " " -f 8
+ls -l 
+c
+ls -l | tr -s " "
+c
+ls -l | tr -s " " | cut -f 9 -d " "
+ls -l | tr -s " "
+ls -l 
+
+date +%A
+date +%A ; date+%B 
+date +%A ; date+%b 
+date +%A ; date +%b 
+echo "`date +%A` `date +%B`" 
+echo "date +%A `date +%B`" 
+c
+cd osc/
+ls
+mkdir shell_program
+cd shell_program/
+ls
+vi hello_world.pqr
+bash hello_world.pqr 
+vi /etc/passwd
+c\
+c
+sh hello_world.pqr 
+mv hello_world.pqr hello_world.sh
+vi hello_world.sh 
+c
+bash hello_world.sh 
+vi hello_world.sh 
+bash hello_world.sh 
+vi basic_in_out.sh
+c
+bash basic_in_out.sh 
+cat basic_in_out.sh 
+vi basic_in_out.sh
+bash basic_in_out.sh 
+cat basic_in_out.sh 
+vi basic_in_out.sh
+c
+cat basic_in_out.sh 
+echo "Enter a number"
+read x
+echo "You entered $x"
+echo "Enter a number"; read x; echo "You entered $x"
+echo "Enter a number";read x;echo "You entered $x"
+ls
+vi basic_in_out.sh 
+c
+vi basic_arithmatic.sh
+bash basic_arithmatic.sh 
+./basic_arithmatic.sh
+ls -l basic_arithmatic.sh
+c
+chmod +x basic_arithmatic.sh
+ls -l basic_arithmatic.sh
+./basic_arithmatic.sh
+vi basic_arithmatic.sh
+c
+./basic_arithmatic.sh
+ls
+vi basic_arithmatic.sh
+c
+./basic_arithmatic.sh
+vi basic_arithmatic.sh
+c
+./basic_arithmatic.sh
+vi basic_arithmatic.sh
+./basic_arithmatic.sh
+vi basic_arithmatic.sh
+c
+./basic_arithmatic.sh
+vi basic_arithmatic.sh
+./basic_arithmatic.sh
+vi basic_arithmatic.sh
+c
+./basic_arithmatic.sh
+
+vi basic_arithmatic.sh
+cp basic_arithmatic.sh basic_calculator.sh
+vi basic_calculator.sh 
+c
+./basic_calculator.sh 
+cat basic_calculator.sh 
+vi basic_calculator.sh 
+vi basic_calculator.sh 
+c
+./basic_calculator.sh 
+bc
+c
+bc
+man bc
+bc
+c
+bc
+c
+cp basic_calculator.sh advance_calculator.sh
+vi advance_calculator.sh 
+bc 10 + 20
+vi advance_calculator.sh 
+
+./advance_calculator.sh 
+vi advance_calculator.sh 
+echo "scale=2;$x / $y | bc
+echo "scale=2;$x / $y" | bc
+c
+echo "scale=2;$x / $y" | bc
+echo "scale=2;$x/$y" | bc
+echo "scale=2;10/20" | bc
+echo "scale=2;10 / 20" | bc
+vi advance_calculator.sh 
+c
+./advance_calculator.sh 
+mkdir asasshdhsdhsdhsqkhql
+cd asasshdhsdhsdhsqkhql/
+cd ..
+ln -s asasshdhsdhsdhsqkhql aa
+cd aa
+touch f1
+ls
+cd ../
+cd asasshdhsdhsdhsqkhql/
+ls
+cd ..\
+ls -l
+cd ..
+ls -l
+echo "`expr 10 + 20`"
+echo "expr 10 + 20"
+vi advance_calculator.sh 
+echo "scale=2;$x / $y" | bc
+echo "scale=2;20 / 10" | bc
+vi advance_calculator.sh 
+c
+ls
+rm -rf asasshdhsdhsdhsqkhql
+rm aa 
+c
+ls
+mkdir aa
+touch aa/dfdj
+vi aa/
+ls
+ls -l aa
+ls -l
+c
+rm -f aa/
+rm -rf aa/
+mkdir sdsdsaddsadsadasdasdasdasdasdsad
+ls
+cd sdsdsaddsadsadasdasdasdasdasdsad/
+mkdir dsdasdasdsad
+cd dsdasdasdsa
+mkdir sdsdsdsdsd
+cd sdsdsdsdsd/
+cd 
+cd osc/shell_program/
+ls
+c
+ls
+ln -s sdsdsaddsadsadasdasdasdasdasdsad sd
+cd sd
+touch file
+ls
+cd ..
+cd sdsdsaddsadsadasdasdasdasdasdsad/
+ls
+c
+ls
+cd ..
+ls -l
+cd ..
+cd -
+rm -rf sd
+rm -rf sdsdsaddsadsadasdasdasdasdasdsad/
+ls
+c
+vi advance_calculator.sh 
+echo "scale=2;$x / $y"
+x=10
+y=2-
+y=20
+echo "scale=2;$x / $y"
+echo "scale=2;$x / $y" | bc
+div=echo "scale=2;$x / $y" | bc
+c
+div=echo "scale=2;$x / $y" | bc
+div=`echo "scale=2;$x / $y" | bc`
+echo $div
+vi advance_calculator.sh 
+vi /etc/profile
+c
+echo $PS1
+cd
+ps1=dac
+vi /etc/passwd
+vi /etc/profile
+ls 
+c
+ls sdsdsa
+ls sdsdsa 2> f
+ls sdsdsa > f
+c
+ls sdsdsa
+ls sdsdsa 2> f
+cat f
+ls sdsdsa 2> /dev/null 
+c
+ls
+ls 1> /dev/null 
+cat file 
+c
+cat f
+cat < f
+vi /etc/passwd
+grep "/bin/bash" /etc/passwd | cut -f1 -d:
+grep "/bin/bash" /etc/passwd | cut -f1 -d: 
+grep "/bin/bash" /etc/passwd | cut -f1 -d: | tal -1
+c
+grep "/bin/bash" /etc/passwd | cut -f1 -d: | tail -1
+ls > f
+cat f
+c
+cd osc/
+ls
+ls > f
+cat f
+ls > f
+cat f
+ls >> f
+cat f
+c
+cat << dd
+sd
+sd
+dd
+
+ls 
+ls | tee file
+vi file 
+vi temp.c
+c
+gcc temp.c -o temp
+vi temp.c
+gcc temp.c -o temp
+c
+./temp 
+ps -eo
+fg
+c
+ps -eo pid,ppid,stat,cmd 
+c
+ps -eo pid,ppid,stat,cmd | grep temp
+./temp 
+ps -eo pid,ppid,stat,cmd | grep temp
+jobs 
+c
+fg
+vi temp.c
+gcc temp.c -o temp
+./temp 
+fg
+echo $?
+./temp 
+echo $?
+c
+ls
+echo $?
+ls sdsdsd
+echo $?
+cd shell_program/
+ls
+c
+cp advance_calculator.sh advance_calculator2.sh 
+vi advance_calculator2.sh 
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+./advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator.sh 
+c
+./advance_calculator.sh
+:q
+vi advance_calculator.sh 
+c
+vi advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+cat /dev/null 
+cd ..
+./temp 
+fg
+top
+fg
+cd -
+vi advance_calculator2.sh 
+c
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+./advance_calculator2.sh 
+vi advance_calculator2.sh 
+sh advance_calculator2.sh 
+c
+sh advance_calculator.sh 
+vi advance_calculator2.sh 
+sum=$(($x+$y)) # doing addition
+sub=$(($x - $y)) # doing addition
+c
+ls
+cd .
+cd ..
+env
+c
+echo $PATH
+echo $HOME
+echo $USER
+echo $SHELL
+ls
+temp
+c
+./temp
+c
+temp
+echo $PATH
+pwd
+PATH=$PATH:/home/dac/osc
+temp
+c
+echo $PATH
+c
+ls
+temp
+cd
+c
+cd osc/shell_program/
+temp
+c
+vi tt.sh
+bash tt.sh 
+vi tt.sh
+bash tt.sh 
+PATH=$PATH:/home/dac/osc
+cd
+c
+cd -
+export PATH=$PATH:/home/dac/osc
+temp\
+temp
+temp &
+fg
+vi ../temp.c 
+cd ..
+gcc temp.c -o temp
+./temp 
+./temp
+./temp &
+ls
+c
+ls -l
+ps -eo pid,ppid,stat,cmd | grep temp
+fg
+c
+ls ddsads
+ls ddsads && c
+ls ddsads || c
+ls ddsads && c
+ls ddsads || c
+rm temp
+ls
+g++ temp.c -o temp && ./temp
+rm temp
+c
+g++ temp.c -o temp && ./temp
+rm temp
+g++ temp.c -o temp || ./temp
+vi temp.c 
+c
+g++ temp.c -o temp && ./temp
+c
+g++ temp.c -o temp || ./temp
+c
+rm temp
+g++ temp.c -o temp || ./temp
+c
+cd -
+ls
+vi basic_in_out.sh 
+bash basic_in_out.sh 
+vi basic_in_out.sh 
+bash basic_in_out.sh 
+vi basic_in_out.sh 
+c
+bash basic_in_out.sh 
+vi basic_in_out.sh 
+bash basic_in_out.sh 
+vi basic_in_out.sh c
+c
+vi basic_in_out.sh 
+chmod +xbasic_in_out.sh
+chmod +x basic_in_out.sh
+c\
+c
+./basic_in_out.sh
+cd
+vi .bash_history 
+ps -eo pid,ppid,stat,cmd | grep temp
+watch -n 1 ps -eo pid,ppid,stat,cmd | grep temp
+watch -n 1 `ps -eo pid,ppid,stat,cmd | grep temp`
+watch - 1 `ps -eo pid,ppid,stat,cmd | grep temp`
+ps -eo pid,ppid,stat,cmd | grep temp
+c
+ps -eo pid,ppid,stat,cmd | grep temp
+bg ./temp
+ls
+bg temp
+which ls
+which adduser 
+./temp 
+ps -eo pid,ppid,stat,cmd | grep temp
+c
+ps -eo pid,ppid,stat,cmd | grep temp
+kill -9 3977
+fg
+temp
+cd shell_program/
+c
+../temp 
+c
+temp
+echo $PATH
+ls ??
+ls
+ls ??.sh
+ls ?.sh
+c
+ls t?.?h
+ls t?.??
+ls
+ls [!c-z]*

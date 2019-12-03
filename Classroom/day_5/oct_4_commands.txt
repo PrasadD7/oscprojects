@@ -1,0 +1,644 @@
+vi .bash_history 
+tail -500 .bash_history >oct_1_commands.txt\
+tail -500 .bash_history >oct_1_commands.txt
+vi oct_1_commands.txt 
+> .bash_history 
+vi .bash_history 
+mv oct_1_commands.txt osc/
+ls
+cd osc/
+ls
+cd shell_program/
+ls
+mkdir oct_1_shell_prog
+mv *.sh oct_1_shell_prog/
+ls
+history 
+echo $PS1
+exit
+echo $x
+exit
+echo $x
+ps -ef 
+ps -ef | grep 2125
+ps -ef | grep bash
+exit
+c
+ps -ef | grep bash
+exit
+cd osc/
+ls
+cd
+vi .bash_history 
+cd -
+ls
+cd chap1/
+ls
+touch temp{1,2,3,4}
+ls
+rm temp*
+touch temp{a-c}
+ls
+c
+cd
+ls -;
+ls -l
+c
+ls -l | grep ^-
+ls -l | grep ^d
+ls -l | grep ^[d-]
+ls -l | grep txt$
+c
+ls -l | grep txt$
+;s
+ls
+c
+find . -name tt.sh
+find / -name tt.sh
+c
+ls /proc/
+ls /sys/
+cat /proc/1/mem 
+cat /proc/interrupts 
+cd
+ls
+man find
+find . type -d
+cd osc/
+find . type -d
+find  type -d
+find . type -d
+find . type d
+find . type -d
+find . -type -d
+find . -type d
+c
+find . -type d
+find . -type f
+cd shell_program/
+cd oct_1_shell_prog/
+cd
+PS1='\u'
+cd -
+pwd
+c
+pwd
+PS1='\u\W\$'
+PS1='\W\$'
+;s
+ls
+c
+ls
+cd ..
+PS1='\W\$ '
+cd -
+ls
+mkdir oct_2_shell_prog/
+cd oct_2_shell_prog/\
+cd oct_2_shell_prog/
+c
+ls
+vi string_comparision.sh
+bash string_comparision.sh 
+vi string_comparision.sh
+bash string_comparision.sh 
+vi string_comparision.sh
+c
+bash string_comparision.sh 
+ls
+vi string_comparision.sh
+c
+bash string_comparision.sh 
+vi string_comparision.sh
+c
+vi string_comparision.sh
+sh string_comparision.sh 
+tail -5 string_comparision.sh 
+vi string_comparision.sh
+tail -5 string_comparision.sh 
+tail -6 string_comparision.sh 
+tail -7 string_comparision.sh 
+tail -8 string_comparision.sh 
+c
+vi string_comparision.sh
+sh string_comparision.sh 
+vi string_comparision.sh
+ls
+cd
+ls
+cd -
+ls
+chmod +x string_comparision.sh 
+ls
+vi number_comparision
+mv number_comparision number_comparision.sh
+c
+vi number_comparision.sh 
+chmod +x number_comparision.sh 
+./number_comparision.sh 
+vi number_comparision.sh 
+./number_comparision.sh 
+vi number_comparision.sh 
+c
+./number_comparision.sh 
+PS1='\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\'
+ls
+c
+ls
+vi file_handling.sh
+c
+PS1='\W\$ '
+c
+fname=anyname
+backup=$fname+.bak
+echo $backup
+backup=$fname.bak
+echo $backup
+vi file_handling.sh
+find . -name anyname.bak
+echo $?
+ls
+find . -name file_handling.sh
+echo $?
+vi file_handling.sh
+c
+chmod +X file_handling.sh
+chmod +x file_handling.sh
+./file_handling.sh 
+ls
+c
+./file_handling.sh 
+vi file_handling.sh
+./file_handling.sh 
+ls
+c
+./file_handling.sh 
+ls
+touch tt
+./file_handling.sh 
+ls
+vi file_handling.sh
+c
+./file_handling.sh 
+vi file_handling.sh
+./file_handling.sh 
+ls
+vi file_handling.sh
+c
+./file_handling.sh 
+vi file_handling.sh
+./file_handling.sh \
+./file_handling.sh 
+vi file_handling.sh
+c
+./file_handling.sh 
+ls
+c
+./file_handling.sh 
+ls
+vi file_handling.sh.bak 
+./file_handling.sh 
+c
+ls -l file_handling.sh.bak
+./file_handling.sh 
+ls -l file_handling.sh.bak
+vi file_handling.sh.bak 
+c
+./file_handling.sh 
+vi file_handling.sh
+c
+./file_handling.sh 
+vi file_handling.sh
+./file_handling.sh 
+ls -l file_handling.sh.bak
+./file_handling.sh 
+echo $?
+vi file_handling.sh
+./file_handling.sh 
+echo $?
+man cal
+cal -m 5
+cal -m 10
+cal
+cal 10
+man cal
+vi file_handling.sh
+man touch
+ls
+ls -l tt
+#touch -t 201909
+date
+touch -t 201909090909 tt
+ls -l 
+ls -l tt
+020 24480940
+cc
+c
+020 24480940
+9850124017
+Unnati book store
+l
+ls
+c
+ls
+vi case.sh
+c
+chmod +x case.sh
+./case.sh 
+vi case.sh
+./case.sh 
+vi case.sh
+c
+./case.sh 
+vi case.sh
+c
+vi for_loop.sh
+ls
+ls -lrt
+vi for_file.sh
+rm for_file.sh 
+c
+vi cat_all_files.sh
+c
+chmod +x cat_all_files.sh
+./cat_all_files.sh 
+vi cat_all_files.sh
+c
+./cat_all_files.sh 
+vi cat_all_files.sh
+vi for_loop.sh
+c
+chmod +x for_loop.sh 
+ls
+ls -lrt
+vi cat_all_files.sh 
+c
+./for_loop.sh 
+vi cat_all_files.sh 
+vi for_loop.sh
+vi function.sh
+c
+bash function.sh 
+ls
+vi function.sh
+c
+bash function.sh 
+vi function.sh
+c
+bash function.sh 
+vi function.sh
+ls tt
+echo $?
+ls aasa
+echo $?
+vi function.sh
+ls
+vi for_loop.sh 
+echo $PWD
+pwd
+bash
+x=10
+bash
+export x=10
+bash
+ps -ef | grep bash
+bash
+ls
+vi file_handling.sh
+ls
+cd ..
+ls
+cat ~/.bash_history >oct_2_commands.txt
+vi oct_2_commands.txt
+cat ~/.bash_history >oct_2_commands.txt
+vi oct_2_commands.txt
+mv oct_2_commands.txt osc/shell_program/
+cd osc/
+ls
+gcc temp.c -o temp
+vi temp.c 
+gcc temp.c -o temp
+ls
+c
+size temp
+gcc -S temp.c 
+vi temp.s 
+vi temp.c 
+vi temp.s 
+size temp
+whatis nice
+ls
+./temp 
+c
+ps -ef 
+c
+cat /proc/3270/sched
+c
+cat /proc/3270/sched
+c
+struct task_struc
+ps -ef 
+c
+ps -ef 
+c
+ps -ef | head
+mkdir system_prog
+cd system_prog/
+mkdir oct_3
+cd oct_3/
+fork.c
+vi fork.c
+c
+gcc fork.c -o fork\
+gcc fork.c -o fork
+vi fork.c
+gcc fork.c -o fork
+c
+gcc fork.c -o fork
+./fork 
+vi fork.c
+./fork 
+c
+gcc fork.c -o fork
+./fork 
+vi fork.c
+c
+gcc fork.c -o fork\
+gcc fork.c -o fork
+./fork 
+ps -eo pid,ppid,stat,cmd | grep -w bash
+./fork 
+ls
+vi fork.c
+c
+cp fork.c orphan.c
+vi orphan.c 
+c
+gcc orphan.c -o orphan
+c
+./orphan 
+c
+./orphan 
+c
+./orphan 
+cp orphan.c zombie.c
+vi zombie.c 
+c
+vi zombie.c 
+c
+gcc zombie.c -o zombie
+./zombie 
+vi zombie.c 
+c
+gcc zombie.c -o zombie
+./zombie 
+c
+cp fork.c exec.c
+vi exec.c 
+man execl
+vi exec.c 
+which ls
+vi exec.c 
+c
+g++ exec.c -o exec
+./exec 
+vi exec.c 
+c
+g++ exec.c -o exec
+./exec 
+vi exec.c 
+c
+g++ exec.c -o exec
+./exec 
+vi exec.c 
+cp exec.c exec_run_shell.c
+ls
+../../shell_program/oct_2_shell_prog/
+pwd
+cd =-
+cd -
+cd ../../shell_program/oct_2_shell_prog/
+pwd
+cd -
+c
+vi exec_run_shell.c 
+c
+gcc exec_run_shell.c -o exec_run_shell
+./exec_run_shell 
+c
+./exec_run_shell c
+c
+./exec_run_shell\
+c
+./exec_run_shell
+ls
+c
+./exec_run_shell
+c
+./exec_run_shell
+c
+./exec_run_shell
+c
+./exec_run_shell
+jl
+ls -l
+ls -li
+man cal
+cd
+PS1='\W\$ '
+c
+ps -eo pid,ppid,stat,cmd
+c
+ps -eo pid,ppid,stat,cmd | grep fork
+c
+ps -eo pid,ppid,stat,cmd | grep -w fork
+c
+ps -eo pid,ppid,stat,cmd | grep -w fork
+c
+ps -eo pid,ppid,stat,cmd | grep -w fork
+c
+ps -eo pid,ppid,stat,cmd | grep -w fork
+c
+ps -eo pid,ppid,stat,cmd | grep -w fork
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+c
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+ps -ef | grep 1554
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+c
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+ps -eo pid,ppid,stat,cmd | grep -w systemd
+ps -eo pid,ppid,stat,cmd | grep -w systemd | grep 1554
+c
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+ps -eo pid,ppid,stat,cmd | grep -w systemd | grep 1554
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+c
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+kill -9 4133
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+kill -9 4182
+c
+ps -eo pid,ppid,stat,cmd | grep -w orphan
+c
+ps -eo pid,ppid,stat,cmd | grep -w zombie
+c
+ps -eo pid,ppid,stat,cmd | grep -w zombie
+c
+ps -eo pid,ppid,stat,cmd | grep -w zombie
+vi .bash_history 
+cat .bash_history >osc/system_prog/oct_3/oct_3_commands.txt
+vi fork.c 
+cd osc/
+cd system_prog/oct_3/
+ls
+vi fork.c 
+gcc fork.c -o fork
+c
+./fork 
+whatis exec
+whatis execl
+vi exec.c 
+c
+man execl
+vi exec.c 
+whatis execl
+vi exec_run_shell.c
+vi exec.c 
+gcc exec.c -o exec
+./exec
+fg
+ps c
+c
+cccccccccc
+c
+:q
+":q
+:q
+ps -ef | grep -w | bash
+ps -ef | grep -w bash
+c
+exit
+ls
+man execl
+c
+ls
+cp exec.c execv.c
+man execl
+vi execv.c 
+c
+gcc execv.c -o execv
+./execv 
+vi execv.c 
+c
+export x=10
+bash
+ps -ef | grep -w bash
+exit
+ps -ef | grep -w bash
+#kill -9 4683
+c
+kill -9 4683
+bash
+ps -ef | grep -w bash
+kill -9 5140
+ps -ef
+ps -ef 
+ps -ef | grep bash
+ls
+echo $?
+ls sdsdsad
+echo $?
+cd
+c
+bash
+echo $x
+exit
+cat /proc/2782/stat
+cat /proc/2782/status
+ps -ef | grep bash
+man sigaction
+man exec
+x=10
+bash
+echo $x
+export x
+bash
+echo $x
+man exec
+ls
+ls -l
+ls -l -r
+ls -l -r -t
+ls -l -r -t -i
+c
+ps -ef | grep orphan
+ps -ef | grep 2500
+ls
+vi zombie.c 
+c
+gcc zombie.c -o zombie
+./zombie 
+gcc zombie.c -o 
+./zom
+c
+ps -ef | grep waitpid
+kill -9 5091
+ps -ef | grep -w bash
+c
+man waitpid
+ps -ef | grep wait
+kill -9 5403
+man waitpid
+c
+cal -m 10
+cal -m 10f
+cal -m 10p
+m=10
+cal $mf
+cal $((m))f
+cal -m $((m))f
+cal -m $((m))p
+cd osc/system_prog/oct_3/
+;s
+ls
+vi orphan.c 
+gcc orphan.c -o orphan
+./orphan 
+c
+ps -ef | grep zombie
+c
+ps -ef | grep zombie
+ps -ef | grep zom
+ps -eo pid,ppid,cmd,stat | grep zom
+man wait
+cd ..
+mkdir oct_
+mv oct_ oct_4
+c
+cd oct_4/
+ls
+vi waitpid.c
+man wait
+vi waitpid.c
+c
+vi waitpid.c
+c
+gcc waitpid.c -o waitpid
+./waitpid 
+vi waitpid.c
+c
+gcc waitpid.c -o waitpid
+./waitpid 
+vi waitpid.c
+gcc waitpid.c -o waitpid
+./waitpid 
+vi waitpid.c
+cd
+cd /
+cd usr/include/
+gre
+c
+grep -r SIGINT
+vi x86_64-linux-gnu/asm/signal.h
+c

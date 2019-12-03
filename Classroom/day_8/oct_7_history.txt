@@ -1,0 +1,1000 @@
+  177  touch tt
+  178  ./file_handling.sh 
+  179  ls
+  180  vi file_handling.sh
+  181  c
+  182  ./file_handling.sh 
+  183  vi file_handling.sh
+  184  ./file_handling.sh 
+  185  ls
+  186  vi file_handling.sh
+  187  c
+  188  ./file_handling.sh 
+  189  vi file_handling.sh
+  190  ./file_handling.sh \
+  191  ./file_handling.sh 
+  192  vi file_handling.sh
+  193  c
+  194  ./file_handling.sh 
+  195  ls
+  196  c
+  197  ./file_handling.sh 
+  198  ls
+  199  vi file_handling.sh.bak 
+  200  ./file_handling.sh 
+  201  c
+  202  ls -l file_handling.sh.bak
+  203  ./file_handling.sh 
+  204  ls -l file_handling.sh.bak
+  205  vi file_handling.sh.bak 
+  206  c
+  207  ./file_handling.sh 
+  208  vi file_handling.sh
+  209  c
+  210  ./file_handling.sh 
+  211  vi file_handling.sh
+  212  ./file_handling.sh 
+  213  ls -l file_handling.sh.bak
+  214  ./file_handling.sh 
+  215  echo $?
+  216  vi file_handling.sh
+  217  ./file_handling.sh 
+  218  echo $?
+  219  man cal
+  220  cal -m 5
+  221  cal -m 10
+  222  cal
+  223  cal 10
+  224  man cal
+  225  vi file_handling.sh
+  226  man touch
+  227  ls
+  228  ls -l tt
+  229  #touch -t 201909
+  230  date
+  231  touch -t 201909090909 tt
+  232  ls -l 
+  233  ls -l tt
+  234  020 24480940
+  235  cc
+  236  c
+  237  020 24480940
+  238  9850124017
+  239  Unnati book store
+  240  l
+  241  ls
+  242  c
+  243  ls
+  244  vi case.sh
+  245  c
+  246  chmod +x case.sh
+  247  ./case.sh 
+  248  vi case.sh
+  249  ./case.sh 
+  250  vi case.sh
+  251  c
+  252  ./case.sh 
+  253  vi case.sh
+  254  c
+  255  vi for_loop.sh
+  256  ls
+  257  ls -lrt
+  258  vi for_file.sh
+  259  rm for_file.sh 
+  260  c
+  261  vi cat_all_files.sh
+  262  c
+  263  chmod +x cat_all_files.sh
+  264  ./cat_all_files.sh 
+  265  vi cat_all_files.sh
+  266  c
+  267  ./cat_all_files.sh 
+  268  vi cat_all_files.sh
+  269  vi for_loop.sh
+  270  c
+  271  chmod +x for_loop.sh 
+  272  ls
+  273  ls -lrt
+  274  vi cat_all_files.sh 
+  275  c
+  276  ./for_loop.sh 
+  277  vi cat_all_files.sh 
+  278  vi for_loop.sh
+  279  vi function.sh
+  280  c
+  281  bash function.sh 
+  282  ls
+  283  vi function.sh
+  284  c
+  285  bash function.sh 
+  286  vi function.sh
+  287  c
+  288  bash function.sh 
+  289  vi function.sh
+  290  ls tt
+  291  echo $?
+  292  ls aasa
+  293  echo $?
+  294  vi function.sh
+  295  ls
+  296  vi for_loop.sh 
+  297  echo $PWD
+  298  pwd
+  299  bash
+  300  x=10
+  301  bash
+  302  export x=10
+  303  bash
+  304  ps -ef | grep bash
+  305  bash
+  306  ls
+  307  vi file_handling.sh
+  308  ls
+  309  cd ..
+  310  ls
+  311  cat ~/.bash_history >oct_2_commands.txt
+  312  vi oct_2_commands.txt
+  313  cat ~/.bash_history >oct_2_commands.txt
+  314  vi oct_2_commands.txt
+  315  mv oct_2_commands.txt osc/shell_program/
+  316  cd osc/
+  317  ls
+  318  gcc temp.c -o temp
+  319  vi temp.c 
+  320  gcc temp.c -o temp
+  321  ls
+  322  c
+  323  size temp
+  324  gcc -S temp.c 
+  325  vi temp.s 
+  326  vi temp.c 
+  327  vi temp.s 
+  328  size temp
+  329  whatis nice
+  330  ls
+  331  ./temp 
+  332  c
+  333  ps -ef 
+  334  c
+  335  cat /proc/3270/sched
+  336  c
+  337  cat /proc/3270/sched
+  338  c
+  339  struct task_struc
+  340  ps -ef 
+  341  c
+  342  ps -ef 
+  343  c
+  344  ps -ef | head
+  345  mkdir system_prog
+  346  cd system_prog/
+  347  mkdir oct_3
+  348  cd oct_3/
+  349  fork.c
+  350  vi fork.c
+  351  c
+  352  gcc fork.c -o fork\
+  353  gcc fork.c -o fork
+  354  vi fork.c
+  355  gcc fork.c -o fork
+  356  c
+  357  gcc fork.c -o fork
+  358  ./fork 
+  359  vi fork.c
+  360  ./fork 
+  361  c
+  362  gcc fork.c -o fork
+  363  ./fork 
+  364  vi fork.c
+  365  c
+  366  gcc fork.c -o fork\
+  367  gcc fork.c -o fork
+  368  ./fork 
+  369  ps -eo pid,ppid,stat,cmd | grep -w bash
+  370  ./fork 
+  371  ls
+  372  vi fork.c
+  373  c
+  374  cp fork.c orphan.c
+  375  vi orphan.c 
+  376  c
+  377  gcc orphan.c -o orphan
+  378  c
+  379  ./orphan 
+  380  c
+  381  ./orphan 
+  382  c
+  383  ./orphan 
+  384  cp orphan.c zombie.c
+  385  vi zombie.c 
+  386  c
+  387  vi zombie.c 
+  388  c
+  389  gcc zombie.c -o zombie
+  390  ./zombie 
+  391  vi zombie.c 
+  392  c
+  393  gcc zombie.c -o zombie
+  394  ./zombie 
+  395  c
+  396  cp fork.c exec.c
+  397  vi exec.c 
+  398  man execl
+  399  vi exec.c 
+  400  which ls
+  401  vi exec.c 
+  402  c
+  403  g++ exec.c -o exec
+  404  ./exec 
+  405  vi exec.c 
+  406  c
+  407  g++ exec.c -o exec
+  408  ./exec 
+  409  vi exec.c 
+  410  c
+  411  g++ exec.c -o exec
+  412  ./exec 
+  413  vi exec.c 
+  414  cp exec.c exec_run_shell.c
+  415  ls
+  416  ../../shell_program/oct_2_shell_prog/
+  417  pwd
+  418  cd =-
+  419  cd -
+  420  cd ../../shell_program/oct_2_shell_prog/
+  421  pwd
+  422  cd -
+  423  c
+  424  vi exec_run_shell.c 
+  425  c
+  426  gcc exec_run_shell.c -o exec_run_shell
+  427  ./exec_run_shell 
+  428  c
+  429  ./exec_run_shell c
+  430  c
+  431  ./exec_run_shell\
+  432  c
+  433  ./exec_run_shell
+  434  ls
+  435  c
+  436  ./exec_run_shell
+  437  c
+  438  ./exec_run_shell
+  439  c
+  440  ./exec_run_shell
+  441  c
+  442  ./exec_run_shell
+  443  jl
+  444  ls -l
+  445  ls -li
+  446  man cal
+  447  cd
+  448  PS1='\W\$ '
+  449  c
+  450  ps -eo pid,ppid,stat,cmd
+  451  c
+  452  ps -eo pid,ppid,stat,cmd | grep fork
+  453  c
+  454  ps -eo pid,ppid,stat,cmd | grep -w fork
+  455  c
+  456  ps -eo pid,ppid,stat,cmd | grep -w fork
+  457  c
+  458  ps -eo pid,ppid,stat,cmd | grep -w fork
+  459  c
+  460  ps -eo pid,ppid,stat,cmd | grep -w fork
+  461  c
+  462  ps -eo pid,ppid,stat,cmd | grep -w fork
+  463  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  464  c
+  465  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  466  ps -ef | grep 1554
+  467  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  468  c
+  469  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  470  ps -eo pid,ppid,stat,cmd | grep -w systemd
+  471  ps -eo pid,ppid,stat,cmd | grep -w systemd | grep 1554
+  472  c
+  473  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  474  ps -eo pid,ppid,stat,cmd | grep -w systemd | grep 1554
+  475  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  476  c
+  477  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  478  kill -9 4133
+  479  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  480  kill -9 4182
+  481  c
+  482  ps -eo pid,ppid,stat,cmd | grep -w orphan
+  483  c
+  484  ps -eo pid,ppid,stat,cmd | grep -w zombie
+  485  c
+  486  ps -eo pid,ppid,stat,cmd | grep -w zombie
+  487  c
+  488  ps -eo pid,ppid,stat,cmd | grep -w zombie
+  489  vi .bash_history 
+  490  cat .bash_history >osc/system_prog/oct_3/oct_3_commands.txt
+  491  vi fork.c 
+  492  cd osc/
+  493  cd system_prog/oct_3/
+  494  ls
+  495  vi fork.c 
+  496  gcc fork.c -o fork
+  497  c
+  498  ./fork 
+  499  whatis exec
+  500  whatis execl
+  501  vi exec.c 
+  502  c
+  503  man execl
+  504  vi exec.c 
+  505  whatis execl
+  506  vi exec_run_shell.c
+  507  vi exec.c 
+  508  gcc exec.c -o exec
+  509  ./exec
+  510  fg
+  511  ps c
+  512  c
+  513  cccccccccc
+  514  c
+  515  :q
+  516  ":q
+  517  :q
+  518  ps -ef | grep -w | bash
+  519  ps -ef | grep -w bash
+  520  c
+  521  exit
+  522  ls
+  523  man execl
+  524  c
+  525  ls
+  526  cp exec.c execv.c
+  527  man execl
+  528  vi execv.c 
+  529  c
+  530  gcc execv.c -o execv
+  531  ./execv 
+  532  vi execv.c 
+  533  c
+  534  export x=10
+  535  bash
+  536  ps -ef | grep -w bash
+  537  exit
+  538  ps -ef | grep -w bash
+  539  #kill -9 4683
+  540  c
+  541  kill -9 4683
+  542  bash
+  543  ps -ef | grep -w bash
+  544  kill -9 5140
+  545  ps -ef
+  546  ps -ef 
+  547  ps -ef | grep bash
+  548  ls
+  549  echo $?
+  550  ls sdsdsad
+  551  echo $?
+  552  cd
+  553  c
+  554  bash
+  555  echo $x
+  556  exit
+  557  cat /proc/2782/stat
+  558  cat /proc/2782/status
+  559  ps -ef | grep bash
+  560  man sigaction
+  561  man exec
+  562  x=10
+  563  bash
+  564  echo $x
+  565  export x
+  566  bash
+  567  echo $x
+  568  man exec
+  569  ls
+  570  ls -l
+  571  ls -l -r
+  572  ls -l -r -t
+  573  ls -l -r -t -i
+  574  c
+  575  ps -ef | grep orphan
+  576  ps -ef | grep 2500
+  577  ls
+  578  vi zombie.c 
+  579  c
+  580  gcc zombie.c -o zombie
+  581  ./zombie 
+  582  gcc zombie.c -o 
+  583  ./zom
+  584  c
+  585  ps -ef | grep waitpid
+  586  kill -9 5091
+  587  ps -ef | grep -w bash
+  588  c
+  589  man waitpid
+  590  ps -ef | grep wait
+  591  kill -9 5403
+  592  man waitpid
+  593  c
+  594  cal -m 10
+  595  cal -m 10f
+  596  cal -m 10p
+  597  m=10
+  598  cal $mf
+  599  cal $((m))f
+  600  cal -m $((m))f
+  601  cal -m $((m))p
+  602  cd osc/system_prog/oct_3/
+  603  ;s
+  604  ls
+  605  vi orphan.c 
+  606  gcc orphan.c -o orphan
+  607  ./orphan 
+  608  c
+  609  ps -ef | grep zombie
+  610  c
+  611  ps -ef | grep zombie
+  612  ps -ef | grep zom
+  613  ps -eo pid,ppid,cmd,stat | grep zom
+  614  man wait
+  615  cd ..
+  616  mkdir oct_
+  617  mv oct_ oct_4
+  618  c
+  619  cd oct_4/
+  620  ls
+  621  vi waitpid.c
+  622  man wait
+  623  vi waitpid.c
+  624  c
+  625  vi waitpid.c
+  626  c
+  627  gcc waitpid.c -o waitpid
+  628  ./waitpid 
+  629  vi waitpid.c
+  630  c
+  631  gcc waitpid.c -o waitpid
+  632  ./waitpid 
+  633  vi waitpid.c
+  634  gcc waitpid.c -o waitpid
+  635  ./waitpid 
+  636  vi waitpid.c
+  637  cd
+  638  cd /
+  639  cd usr/include/
+  640  gre
+  641  c
+  642  grep -r SIGINT
+  643  vi x86_64-linux-gnu/asm/signal.h
+  644  c
+  645  cd osc/
+  646  ls
+  647  cd system_prog/oct_4/
+  648  ls
+  649  cat ~/.bash_history >oct_4_commands.txt
+  650  ls
+  651  cd Desktop/
+  652  ls
+  653  vi ques_1.c 
+  654  vi signal_handling.c 
+  655  pkill -2 signal_handling\
+  656  pkill -2 signal_handling
+  657  pkill -9\ signal_handling
+  658  c
+  659  pkill -9 signal_handling
+  660  pkill -3 signal_handling
+  661  vi signal_handling.c 
+  662  c
+  663  pkill -2 signal_handling
+  664  pkill -3 signal_handling
+  665  pkill -4 signal_handling
+  666  vi temp
+  667  pkill -2 signal_handling
+  668  pkill -2 sigaction_handler
+  669  ps -ef | grep sigaction_handler
+  670  c
+  671  kill -2 3040
+  672  pkill -2 sigaction_handler
+  673  kill -2 3040
+  674  kill -9 3040
+  675  man sigaction
+  676  ps -ef | grep sigaction_handler
+  677  kill -9 3084
+  678  man sigaction
+  679  ps -ef | grep kaustubh
+  680  ps -eo pid,ppid,stat,smd | grep kaustubh
+  681  ps -eo pid,ppid,stat,cmd | grep kaustubh
+  682  firefox 
+  683  which firefox
+  684  firefox 
+  685  firefox -p
+  686  thunderbird 
+  687  c
+  688  ps -ef | grep rishabh
+  689  man 3 kill
+  690  man  kill
+  691  man 2 kill
+  692  cd osc/system_prog/
+  693  ;s
+  694  ls
+  695  mkdir oct_05
+  696  cd oct_05/
+  697  ls
+  698  vi signal_handling.c
+  699  c
+  700  man signal
+  701  vi signal_handling.c
+  702  PS1='\W\$ '
+  703  gcc signal_handling.c -o signal_handling
+  704  vi signal_handling.c
+  705  c
+  706  gcc signal_handling.c -o signal_handling
+  707  ./signal_handling 
+  708  vi signal_handling.c
+  709  c
+  710  gcc signal_handling.c -o signal_handling
+  711  ./signal_handling 
+  712  cd /usr/include/
+  713  grep -r SIGINT
+  714  vi x86_64-linux-gnu/bits/signum-generic.h 
+  715  c
+  716  cd -
+  717  ls
+  718  vi signal_handling.c 
+  719  c
+  720  vi signal_handling.c 
+  721  c
+  722  gcc signal_handling.c -o signal_handling
+  723  ./signal_handling 
+  724  vi /usr/include/x86_64-linux-gnu/bits/signum-generic.h 
+  725  man sigaction
+  726  vi
+  727  ls
+  728  c
+  729  cp signal_handling.c sigaction_handler.c
+  730  vi sigaction_handler.c 
+  731  c
+  732  gcc sigaction_handler.c -o sigaction_handler\
+  733  gcc sigaction_handler.c -o sigaction_handler
+  734  man memset
+  735  vi sigaction_handler.c 
+  736  c
+  737  gcc sigaction_handler.c -o sigaction_handler
+  738  man memset
+  739  vi sigaction_handler.c 
+  740  c
+  741  gcc sigaction_handler.c -o sigaction_handler
+  742  ./sigaction_handler 
+  743  vi sigaction_handler.c 
+  744  c
+  745  gcc sigaction_handler.c -o sigaction_handler
+  746  ./sigaction_handler 
+  747  vi sigaction_handler.c 
+  748  man sigset_mask\
+  749  man sigset_mask
+  750  man sigset
+  751  man sigprocmask
+  752  vi sigaction_handler.c 
+  753  vi signal_handling.c 
+  754  vi sigaction_handler.c 
+  755  vi signal_handling.c 
+  756  vi temp.c
+  757  gcc temp.c -o kaustubh
+  758  ./kaustubh 
+  759  vi temp.c
+  760  man exec
+  761  c
+  762  man pthread_create
+  763  ls
+  764  vi simple_thread.c
+  765  c
+  766  man pthread_create
+  767  vi simple_thread.c
+  768  c
+  769  gcc simple_thread.c -o simple_thread
+  770  c
+  771  gcc simple_thread.c -o simple_thread -lpthread
+  772  ./simple_thread 
+  773  vi simple_thread.c
+  774  c
+  775  gcc simple_thread.c -o simple_thread -lpthread
+  776  ./simple_thread 
+  777  vi simple_thread.c
+  778  gcc simple_thread.c -o simple_thread -lpthread
+  779  ./simple_thread 
+  780  cp simple_thread.c thread2.c
+  781  vi thread2.c 
+  782  c
+  783  gcc thread2.c -o thread2
+  784  vi thread2.c 
+  785  c
+  786  gcc thread2.c -o thread2
+  787  gcc thread2.c -o thread2 -lpthread
+  788  ./thread2 
+  789  cp thread2.c thread_add_range.c
+  790  vi thread_add_range.c 
+  791  man pthread_join
+  792  vi thread_add_range.c 
+  793  c
+  794  man pthread_join
+  795  vi thread_add_range.c 
+  796  man pthread_join
+  797  vi thread_add_range.c 
+  798  c
+  799  gcc thread_add_range.c -o thread_add_range
+  800  gcc thread_add_range.c -o thread_add_range -lpthread
+  801  c
+  802  ./thread_add_range 
+  803  vi thread_add_range.c 
+  804  c
+  805  gcc thread_add_range.c -o thread_add_range -lpthread
+  806  ./thread_add_range 
+  807  vi thread_add_range.c 
+  808  c
+  809  gcc thread_add_range.c -o thread_add_range -lpthread
+  810  ./thread_add_range 
+  811  vi thread_add_range.c 
+  812  c
+  813  gcc thread_add_range.c -o thread_add_range -lpthread
+  814  ./thread_add_range 
+  815  vi thread_add_range.c 
+  816  man pthread_exit
+  817  vi thread_add_range.c 
+  818  c
+  819  gcc thread_add_range.c -o thread_add_range -lpthread
+  820  man malloc
+  821  vi thread_add_range.c 
+  822  c
+  823  man malloc
+  824  c
+  825  gcc thread_add_range.c -o thread_add_range -lpthread
+  826  vi thread_add_range.c 
+  827  c
+  828  gcc thread_add_range.c -o thread_add_range -lpthread
+  829  vi thread_add_range.c 
+  830  c
+  831  gcc thread_add_range.c -o thread_add_range -lpthread
+  832  ./thread_add_range 
+  833  vi thread_add_range.c 
+  834  c
+  835  vi thread_add_range.c 
+  836  c
+  837  gcc thread_add_range.c -o thread_add_range -lpthread
+  838  ./thread_add_range 
+  839  vi thread_add_range.c 
+  840  man pthread_join\
+  841  man pthread_join
+  842  vi thread_add_range.c 
+  843  c
+  844  gcc thread_add_range.c -o thread_add_range -lpthread
+  845  ./thread_add_range 
+  846  vi thread_add_range.c 
+  847  c
+  848  gcc thread_add_range.c -o thread_add_range -lpthread
+  849  ./thread_add_range 
+  850  vi thread_add_range.c 
+  851  c
+  852  gcc thread_add_range.c -o thread_add_range -lpthread
+  853  ./thread_add_range 
+  854  vi thread_add_range.c 
+  855  c
+  856  gcc thread_add_range.c -o thread_add_range -lpthread
+  857  ./thread_add_range 
+  858  vi thread_add_range.c 
+  859  gcc thread_add_range.c -o thread_add_range -lpthread
+  860  c
+  861  ./thread_add_range 
+  862  gcc thread_add_range.c -o thread_add_range -lpthread
+  863  ./thread_add_range 
+  864  vi thread_add_range.c 
+  865  c
+  866  gcc thread_add_range.c -o thread_add_range -lpthread
+  867  vi thread_add_range.c 
+  868  c
+  869  gcc thread_add_range.c -o thread_add_range -lpthread
+  870  vi thread_add_range.c 
+  871  gcc thread_add_range.c -o thread_add_range -lpthread
+  872  ./thread_add_range 
+  873  vi thread_add_range.c 
+  874  c
+  875  gcc thread_add_range.c -o thread_add_range -lpthread
+  876  ./thread_add_range 
+  877  vi thread_add_range.c 
+  878  c
+  879  gcc thread_add_range.c -o thread_add_range -lpthread
+  880  ./thread_add_range 
+  881  calc
+  882  bc
+  883  c
+  884  ./thread_add_range 
+  885  echo "218625 + 31125 + 156125 + 93625" | bc
+  886  time ./thread_add_range 
+  887  vi thread_add_range.c 
+  888  vi single_thread.c
+  889  c
+  890  gcc single_thread.c -o single_thread
+  891  ./single_thread 
+  892  time ./single_thread 
+  893  time ./thread_add_range 
+  894  vi single_thread.c
+  895  c
+  896  gcc single_thread.c -o single_thread
+  897  time ./thread_add_range 
+  898  time ./single_thread 
+  899  vi single_thread.c
+  900  vi thread_add_range.c 
+  901  vi single_thread.c
+  902  vi thread_add_range.c 
+  903  vi ~/Desktop/ques_1.c 
+  904  c
+  905  gcc ~/Desktop/ques_1.c -o rishabh
+  906  ./rishabh 
+  907  vi ~/Desktop/ques_1.c 
+  908  c
+  909  gcc ~/Desktop/ques_1.c -o rishabh
+  910  ./rishabh 
+  911  vi ~/Desktop/ques_1.c 
+  912  man nice
+  913  nice -n 10 ./temp
+  914  man pthread_mutex_lock
+  915  man shmget
+  916  man shmat
+  917  man shmget
+  918  man shmat
+  919  man shmat\
+  920  man shmat
+  921  man shmdt
+  922  man shmctl
+  923  ls
+  924  cd system_prog/oct_06/
+  925  c
+  926  ls
+  927  ./shared_memory_reader 
+  928  nice
+  929  whatis nice 
+  930  ls
+  931  ./test 
+  932  cd osc/
+  933  ls
+  934  ./temp 
+  935  nice -n -19 ./temp 
+  936  nice -n -18 ./temp 
+  937  nice -n -1 ./temp 
+  938  nice -n 0 ./temp
+  939  nice -n 1 ./temp
+  940  nice -n 21 ./temp
+  941  nice -n 23 ./temp
+  942  man nice
+  943  nice
+  944  cd system_prog/
+  945  ls
+  946  mkdir oct_06
+  947  cd oct_06/
+  948  ls
+  949  vi thread_lock.c
+  950  c
+  951  gcc thread_lock.c -o thread_lock -lpthread
+  952  vi thread_lock.c
+  953  c
+  954  gcc thread_lock.c -o thread_lock -lpthread
+  955  ./thread_lock 
+  956  vi thread_lock.c
+  957  c
+  958  gcc thread_lock.c -o thread_lock -lpthread
+  959  ./thread_lock 
+  960  vi thread_lock.c
+  961  c
+  962  gcc thread_lock.c -o thread_lock -lpthread
+  963  ./thread_lock 
+  964  vi thread_lock.c
+  965  man pthread_mutex_lock
+  966  man pthread_mutex_create
+  967  man pthread_mutex_init
+  968  man pthread_mutex_lock
+  969  vi thread_lock.c
+  970  c
+  971  gcc thread_lock.c -o thread_lock -lpthread
+  972  vi thread_lock.c
+  973  gcc thread_lock.c -o thread_lock -lpthread
+  974  ./thread_lock 
+  975  vi thread_lock.c
+  976  c
+  977  gcc thread_lock.c -o thread_lock -lpthread
+  978  ./thread_lock 
+  979  vi thread_lock.c
+  980  c
+  981  gcc thread_lock.c -o thread_lock -lpthread
+  982  ./thread_lock 
+  983  vi thread_lock.c
+  984  c
+  985  gcc thread_lock.c -o thread_lock -lpthread
+  986  ./thread_lock 
+  987  vi thread_lock.c
+  988  cp thread_lock.c deadlock.c
+  989  vi deadlock.c 
+  990  c
+  991  gcc deadlock.c -o deadlock
+  992  gcc deadlock.c -o deadlock -lpthread
+  993  ./deadlock 
+  994  man shmget
+  995  man shmat
+  996  man shmctl
+  997  vi shared_memory.c
+  998  man shmctl
+  999  vi shared_memory.c
+ 1000  man shmget
+ 1001  man ftok
+ 1002  vi shared_memory.c
+ 1003  pwd
+ 1004  vi shared_memory.c
+ 1005  c
+ 1006  gcc shared_memory.c -o shared_memory
+ 1007  ./shared_memory 
+ 1008  cp shared_memory.c shared_memory_reader.c
+ 1009  vi shared_memory_reader.c 
+ 1010  vi shared_memory.c
+ 1011  gcc shared_memory_reader.c -o shared_memory_reader
+ 1012  ./shared_memory_reader 
+ 1013  ./shared_memory 
+ 1014  gcc shared_memory.c -o shared_memory
+ 1015  c
+ 1016  ./shared_memory 
+ 1017  vi shared_memory.c 
+ 1018  gcc shared_memory.c -o shared_memory
+ 1019  ./shared_memory 
+ 1020  cd osc/system_prog/
+ 1021  ls
+ 1022  mkdir oct_07
+ 1023  cd oct_07/
+ 1024  ls
+ 1025  c
+ 1026  ls
+ 1027  vi pipes.c
+ 1028  man pipe
+ 1029  vi pipes.c
+ 1030  c
+ 1031  gcc pipes.c -o pipes
+ 1032  c
+ 1033  PS1='\W\$ '
+ 1034  ls
+ 1035  ./pipes 
+ 1036  vi pipes.c
+ 1037  c
+ 1038  gcc pipes.c -o pipes
+ 1039  ls
+ 1040  ./pipes 
+ 1041  vi pipes.c
+ 1042  c
+ 1043  gcc pipes.c -o pipes
+ 1044  man waitpid\
+ 1045  man waitpid
+ 1046  vi pipes.c
+ 1047  gcc pipes.c -o pipes
+ 1048  man waitpid
+ 1049  vi pipes.c
+ 1050  c
+ 1051  gcc pipes.c -o pipes
+ 1052  ./pipes 
+ 1053  vi pipes.c
+ 1054  ./pipes 
+ 1055  vi pipes.c
+ 1056  ./pipes 
+ 1057  gcc pipes.c -o pipes
+ 1058  ./pipes 
+ 1059  vi pipes.c
+ 1060  c
+ 1061  gcc pipes.c -o pipes
+ 1062  ./pipes 
+ 1063  vi pipes.c
+ 1064  c
+ 1065  gcc pipes.c -o pipes
+ 1066  ./pipes 
+ 1067  vi pipes.c
+ 1068  man mkfifo
+ 1069  man 2 mkfifo
+ 1070  man 3 mkfifo
+ 1071  ls -l
+ 1072  mkfifo named_pipe
+ 1073  ls -l
+ 1074  rm named_pipe 
+ 1075  cp pipes.c named_pipe.c
+ 1076  c
+ 1077  vi named_pipe.c 
+ 1078  c
+ 1079  gcc named_pipe.c -o named_pipe
+ 1080  vi named_pipe.c 
+ 1081  c
+ 1082  gcc named_pipe.c -o named_pipe
+ 1083* ./named_pipe
+ 1084  ls
+ 1085  ls -l
+ 1086  ./named_pipe 
+ 1087  ls -l
+ 1088  vi named_pipe.c 
+ 1089  c
+ 1090  gcc named_pipe.c -o named_pipe
+ 1091  ./named_pipe 
+ 1092  ls
+ 1093  rm mypipe 
+ 1094  ls
+ 1095  ./named_pipe 
+ 1096  ls -l
+ 1097  rm mypipe 
+ 1098  vi named_pipe.c 
+ 1099  c
+ 1100  gcc named_pipe.c -o named_pipe
+ 1101  ./named_pipe 
+ 1102  ls -l
+ 1103  cat mypipe 
+ 1104  vi named_pipe.c 
+ 1105  c
+ 1106  cp named_pipe.c unrelated_named_pipe_reader.c
+ 1107  cp named_pipe.c unrelated_named_pipe_writer.c
+ 1108  vi unrelated_named_pipe_reader.c 
+ 1109  cp unrelated_named_pipe_reader.c unrelated_named_pipe_writer.c 
+ 1110  vi unrelated_named_pipe_reader.c 
+ 1111  c
+ 1112  gcc unrelated_named_pipe_reader.c - unrelated_named_pipe_reader
+ 1113  gcc unrelated_named_pipe_reader.c -o unrelated_named_pipe_reader
+ 1114  gcc unrelated_named_pipe_writer.c -o unrelated_named_pipe_writer
+ 1115  ls
+ 1116  rm mypipe 
+ 1117  c
+ 1118  ./unrelated_named_pipe_reader 
+ 1119  vi unrelated_named_pipe_reader.c 
+ 1120  ls
+ 1121  rm mypipe 
+ 1122  gcc unrelated_named_pipe_reader.c -o unrelated_named_pipe_reader
+ 1123  vi unrelated_named_pipe_reader.c 
+ 1124  c
+ 1125  gcc unrelated_named_pipe_reader.c -o unrelated_named_pipe_reader
+ 1126  ./unrelated_named_pipe_reader 
+ 1127  vi unrelated_named_pipe_reader.c 
+ 1128  c
+ 1129  gcc unrelated_named_pipe_reader.c -o unrelated_named_pipe_reader
+ 1130  ./unrelated_named_pipe_reader 
+ 1131  rm mypipe 
+ 1132  ./unrelated_named_pipe_reader 
+ 1133  vi unrelated_named_pipe_writer.c 
+ 1134  vi unrelated_named_pipe_reader.c 
+ 1135  man mkfifo
+ 1136  man 3mkfifo
+ 1137  man 2 mkfifo
+ 1138  man 3 mkfifo
+ 1139  man dup
+ 1140  vi unrelated_named_pipe_writer.c 
+ 1141  mkdir 112
+ 1142  c
+ 1143  gcc unrelated_named_pipe_writer.c -o unrelated_named_pipe_writer
+ 1144  rm mypipe 
+ 1145  ./unrelated_named_pipe_reader 
+ 1146  cat mypipe 
+ 1147  vi unrelated_named_pipe_writer.c 
+ 1148  cat mypipe 
+ 1149  ./unrelated_named_pipe_reader 
+ 1150  c
+ 1151  vi unrelated_named_pipe_writer.c 
+ 1152  gcc unrelated_named_pipe_writer.c -o unrelated_named_pipe_writer
+ 1153  rm mypipe 
+ 1154  ./unrelated_named_pipe_reader 
+ 1155  rm mypipe 
+ 1156  vi unrelated_named_pipe_writer.c 
+ 1157  c
+ 1158  gcc unrelated_named_pipe_writer.c -o unrelated_named_pipe_writer
+ 1159  ./unrelated_named_pipe_reader 
+ 1160  vi unrelated_named_pipe_writer.c 
+ 1161  vi pipes.c 
+ 1162  c
+ 1163  gcc pipes.c -o pipes
+ 1164  ./pipes 
+ 1165  vi pipes.c 
+ 1166  ls
+ 1167  mkdir five
+ 1168  cd five/
+ 1169  history
+ 1170  ls
+ 1171  cd ~/
+ 1172  ls
+ 1173  cd Desktop/
+ 1174  ls
+ 1175  touch oct_7_history.txt
+ 1176  history > oct_7_history.txt 

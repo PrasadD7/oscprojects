@@ -1,0 +1,102 @@
+1:
+a::
+to list files rowwise : $ls
+
+to list files columnwise : $ls -1
+
+
+
+b::
+to list files in ascending order of their names : $ls
+
+
+to list files in descending order of their names : $ls -r
+
+c::
+ to create hidden directory : mkdir  .hiddendir
+ to create hidden file : touch .hiddenfile
+
+d::
+ $ ls -l
+
+-rwxr-xr-x 1 dac dac 21244 Oct  2 12:13 prasad #previous timestamp
+
+
+$ touch prasad
+
+$ ls -l
+
+-rwxr-xr-x 1 dac dac 21244 Oct  2 12:42 prasad #timestamp after touch
+ 
+
+#change timestamp explicitly
+
+touch -t 201901011111.11 prasad
+
+e::
+to recursively display contents 
+$ ls -R
+
+f::
+display all attributes of files and directories using ls -l
+ls -l
+
+g::
+display attributes of a directory using ls -ld
+$ ls -ld prasad
+
+2.
+Create three directory a b and c and create a.txt,b.txt and c.txt
+  in each directory respectively and then copy c directory into the a.
+
+`mkdir a b c`
+`touch a/a.txt b/b.txt c/c.txt`
+
+#to remove all files and directories of current directory :::> $ rm -rf *
+
+
+3.
+ Move Directory b to c.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
